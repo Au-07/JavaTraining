@@ -1,4 +1,4 @@
-package com.JavaTraining;
+package com.JavaTraining.day1;
 import java.util.*;
 class Employee{
 	int roll_no;

@@ -1,4 +1,4 @@
-package com.JavaTraining;
+package com.JavaTraining.day1;
 import java.util.*;
 public class Leap {
 	public static void main(String[] args) {
